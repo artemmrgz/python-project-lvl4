@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "hexlet-code"
+version = "0.1.0"
+description = ""
+authors = ["Artem Marhaza <artemmrgz@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+Django = "^3.2.6"
+python-dotenv = "^0.19.0"
+dj-database-url = "^0.5.0"
+
+[tool.poetry.dev-dependencies]
+gunicorn = "^20.1.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
