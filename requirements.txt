@@ -1,6 +1,6 @@
-dj-database-url 0.5.0  Use Database URLs in your Django Application.
-django          3.2.6  A high-level Python Web framework that encourages ra...
-gunicorn        20.1.0 WSGI HTTP Server for UNIX
-python-dotenv   0.19.0 Read key-value pairs from a .env file and set them a...
-pytz            2021.1 World timezone definitions, modern and historical
-sqlparse        0.4.1  A non-validating SQL parser.
+dj-database-url 0.5.0
+django          3.2.6
+gunicorn        20.1.0
+python-dotenv   0.19.0
+pytz            2021.1
+sqlparse        0.4.1
